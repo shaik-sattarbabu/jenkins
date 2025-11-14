@@ -14,4 +14,4 @@ public class GFG{
         int number = sc.nextInt();
 
         // Step 4: Print the entered integer
-        System.out.println("You entered: " + number)
+  
